@@ -1,0 +1,22 @@
+.botonIncrementar {
+  width: 35px;
+  height: 35px;
+  border-radius: 10px;
+}
+
+.botonDecrementar {
+  width: 35px;
+  height: 35px;
+  border-radius: 10px;
+  
+  
+}
+
+.cajaBotonera {
+  display: flex;
+  text-align: justify;
+  justify-content: space-around;
+  margin-bottom: 0px;
+  
+  
+}

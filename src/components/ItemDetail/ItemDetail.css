@@ -1,0 +1,19 @@
+.detail-container {
+  background-color: #fff;
+  height: 600px;
+  border-radius: 10px;
+  width: 800px;
+  color: black;
+  padding: 30px;
+}
+
+.detail-image {
+  height: 300px;
+  width: 180px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.product-information {
+  font-size: 16px;
+}
